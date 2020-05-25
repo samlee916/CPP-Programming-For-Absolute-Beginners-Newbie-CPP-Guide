@@ -1,0 +1,9 @@
+***********Employee List***********
+NAME			Salary
+
+Jimmy Clark	,    	80000
+Richard Dank	,	40000
+Dick Fred	,    	20000
+David Mount	,	56000
+Diana Prince	,	23000
+John Jones	,	34000
